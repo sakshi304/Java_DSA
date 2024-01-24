@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa07a63-1c53-44eb-8eb6-ee565a0aa219" name="Changes" comment="18 jan 2024">
+    <list default="true" id="5aa07a63-1c53-44eb-8eb6-ee565a0aa219" name="Changes" comment="Newly added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Bubble_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Bubble_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Counting_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Counting_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Insertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Insertion_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_Sorting_Algos/Selection_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706082209127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="18 jan 2024">
+      <created>1706084380695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706084380695</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18 jan 2024" />
     <option name="LAST_COMMIT_MESSAGE" value="18 jan 2024" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_DSA$Selection_sort.ic" NAME="Selection_sort Coverage Results" MODIFIED="1706016512192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

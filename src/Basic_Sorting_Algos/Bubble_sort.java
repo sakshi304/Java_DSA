@@ -6,6 +6,20 @@ import java.util.Collections;
 
 public class Bubble_sort {
 
+    public static void desc(){
+        int[]arr1={4,7,1,0,9,5};
+        int temp;
+        for(int i=0;i<arr1.length-1;i++){
+            for(int j=0;j<arr1.length-i-1;j++) {
+                if (arr1[j] < arr1[j + 1]) {
+                    temp = arr1[j + 1];
+                    arr1[j + 1] = arr1[j];
+                    arr1[j] = temp;
+                }
+            }
+        }
+        System.out.println(Arrays.toString(arr1));
+    }
     public static void main(String[] args) {
         int[]arr={4,7,1,0,9,5};
         int temp;
@@ -19,6 +33,7 @@ public class Bubble_sort {
           }
         }
         System.out.println(Arrays.toString(arr));
+        desc();
 
         //-----------------INBUILT METHODS FOR SORTING---------------------
         int []arr2={4,8,1,0,-4,6};
