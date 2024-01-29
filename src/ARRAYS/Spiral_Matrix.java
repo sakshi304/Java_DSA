@@ -1,4 +1,4 @@
-package TwoD_ARRAYS;
+package ARRAYS;
 
 import java.util.Scanner;
 
