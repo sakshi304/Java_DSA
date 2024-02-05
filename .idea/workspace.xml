@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa07a63-1c53-44eb-8eb6-ee565a0aa219" name="Changes" comment="---">
+    <list default="true" id="5aa07a63-1c53-44eb-8eb6-ee565a0aa219" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/First_last_occurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_x_power_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/String_duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_Natural_Nos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/fibonacci_nth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/tiling_problem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recursion/Factorial_N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Factorial_N.java" afterDir="false" />
     </list>
@@ -127,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706792979467</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="---">
+      <created>1706794268529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706794268529</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +180,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="---" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/tiling_problem.java</url>
+          <line>3</line>
+          <properties class="Recursion.tiling_problem" method="tiling">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/tiling_problem.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/tiling_problem.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_DSA$fibonacci_nth.ic" NAME="fibonacci_nth Coverage Results" MODIFIED="1706795009482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java_DSA$Selection_sort.ic" NAME="Selection_sort Coverage Results" MODIFIED="1706016512192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Basic_Sorting_Algos.*</FILTER>
     </SUITE>
