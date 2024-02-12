@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa07a63-1c53-44eb-8eb6-ee565a0aa219" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/First_last_occurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_x_power_n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/String_duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_Natural_Nos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/fibonacci_nth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/tiling_problem.java" afterDir="false" />
+    <list default="true" id="5aa07a63-1c53-44eb-8eb6-ee565a0aa219" name="Changes" comment="--">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Binary_string_noconsecutiveone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Number_to_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Start_end_same_substriing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/friends_pairing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Factorial_N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Factorial_N.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -33,6 +33,12 @@
         <option value="sakshikothurkar@gmail.com" />
         <option value="SAKSHI" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -140,13 +146,37 @@
       <option name="project" value="LOCAL" />
       <updated>1706794268529</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="5th feb">
+      <created>1707154841221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707154841221</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="cafb0b20-783c-4f0e-b33c-7ae19306d49e">
           <value>
             <State>
               <option name="FILTERS">
@@ -170,6 +200,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="cafb0b20-783c-4f0e-b33c-7ae19306d49e" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18 jan 2024" />
@@ -177,29 +212,32 @@
     <MESSAGE value="-" />
     <MESSAGE value="new package:2d array" />
     <MESSAGE value="---" />
-    <option name="LAST_COMMIT_MESSAGE" value="---" />
+    <MESSAGE value="5th feb" />
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/tiling_problem.java</url>
-          <line>3</line>
-          <properties class="Recursion.tiling_problem" method="tiling">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Start_end_same_substriing.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Start_end_same_substriing.java</url>
+          <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Recursion/tiling_problem.java</url>
-          <line>7</line>
+          <url>file://$PROJECT_DIR$/src/Recursion/Start_end_same_substriing.java</url>
+          <line>13</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Recursion/tiling_problem.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/Recursion/Start_end_same_substriing.java</url>
+          <line>14</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
