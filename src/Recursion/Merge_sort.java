@@ -2,7 +2,8 @@ package Recursion;
 
 import java.util.Arrays;
 
-class TwoMorearrays{                        //not sorting the original array
+//----------------NOT SORTING THE ORIGINAL ARRAY------------------
+class TwoMorearrays{
     int []arr2=new int[6];
     TwoMorearrays(int[]arr){
         arr2=arr;
@@ -53,7 +54,9 @@ class TwoMorearrays{                        //not sorting the original array
     }
 
 }
-public class Merge_sort {                     // sorting the original array
+
+//----------SORTING THE ORIGINAL ARRAY--------------------------
+public class Merge_sort {
     public static void mergesort(int[]arr,int start, int end){
         if(start==end){
             return;
