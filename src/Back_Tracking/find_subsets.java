@@ -1,4 +1,4 @@
-package Recursion;
+package Back_Tracking;
 
 public class find_subsets {
     public static void subset(String str,int i,String ans){
@@ -15,5 +15,6 @@ public class find_subsets {
     }
     public static void main(String[] args) {
         subset("abc",0,"");
+        System.out.println("hello".substring(0,0));
     }
 }
